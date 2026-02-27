@@ -1,0 +1,6 @@
+{
+  "name": "platform-workspace",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "devDependencies": {"turbo": "latest"}
+}
