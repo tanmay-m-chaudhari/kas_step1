@@ -1,0 +1,5 @@
+{
+  "name": "customer-portal",
+  "scripts": {"start": "react-scripts start"},
+  "dependencies": {"react": "latest", "react-scripts": "latest"}
+}
