@@ -1,0 +1,5 @@
+{
+  "name": "global-system",
+  "private": true,
+  "workspaces": ["apps/*"]
+}

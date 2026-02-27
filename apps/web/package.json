@@ -1,0 +1,4 @@
+{
+  "name": "v2-client",
+  "scripts": {"start": "next start"}
+}

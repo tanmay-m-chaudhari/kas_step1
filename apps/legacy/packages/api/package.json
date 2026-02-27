@@ -1,0 +1,4 @@
+{
+  "name": "v1-billing",
+  "scripts": {"start": "node server.js"}
+}
